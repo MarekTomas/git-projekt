@@ -1,1 +1,3 @@
 ad.pierwsze æwiczenie z git
+
+- pierwsza zmiana w pliku
