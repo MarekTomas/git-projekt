@@ -1,3 +1,5 @@
 ad.pierwsze æwiczenie z git
 
 - pierwsza zmiana w pliku
+
+- druga zmiana w pliku
