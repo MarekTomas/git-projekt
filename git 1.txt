@@ -1,5 +1,6 @@
-ad.pierwsze æwiczenie z git
+ad.pierwsze Ä‡wiczenie z git
 
 - pierwsza zmiana w pliku
 
 - druga zmiana w pliku
+- trzecia zmiana w pliku
